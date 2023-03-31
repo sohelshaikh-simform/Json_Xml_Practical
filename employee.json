@@ -1,0 +1,109 @@
+{
+    "Employee":[
+        {
+            "FirstName":"Sohel",
+            "LastName":"Shaikh",
+            "Role":["HR"],
+            "Date Of Join":"2012-12-21",
+            "Age":"35",
+            "Gender": "male",
+            "Married":"False",
+            "Address":{
+                "streetAddress": "26 colony",
+                "city": "Ahemdabad",
+                "state": "Gujarat",
+                "postalCode": "380001"
+            }
+        },
+        {
+            "FirstName":"Utsav",
+            "LastName":"Gohel",
+            "Role":["Trader","Forex"],
+            "Date Of Join":"2018-02-13",
+            "Age":"26",
+            "Gender": "male",
+            "Married":"True",
+            "Address":{
+                "streetAddress": "20 colony",
+                "city": "Rajkot",
+                "state": "Gujarat",
+                "postalCode": "360004"
+            }
+        },
+        {
+            "FirstName":"Pulkit",
+            "LastName":"Sharma",
+            "Role":["HR","L&D"],
+            "Date Of Join":"2017-09-24",
+            "Age":"25",
+            "Gender": "male",
+            "Married":"False",
+            "Address":{
+                "streetAddress": "07 colony",
+                "city": "Nadiad",
+                "state": "Gujarat",
+                "postalCode": "330215"
+            }
+        },
+        {
+            "FirstName":"Het",
+            "LastName":"Patel",
+            "Role":["Dev","MEAN"],
+            "Date Of Join":"2015-08-19",
+            "Age":"30",
+            "Gender": "male",
+            "Married":"True",
+            "Address":{
+                "streetAddress": "35 colony",
+                "city": "Mehsana",
+                "state": "Gujarat",
+                "postalCode": "350124"
+            }
+        },
+        {
+            "FirstName":"Radhika",
+            "LastName":"Patel",
+            "Role":["Dev","MEAN"],
+            "Date Of Join":"2015-08-19",
+            "Age":"30",
+            "Gender": "Female",
+            "Married":"True",
+            "Address":{
+                "streetAddress": "02 colony",
+                "city": "Gandhinagar",
+                "state": "Gujarat",
+                "postalCode": "382011"
+            }
+        },
+        {
+            "FirstName":"Raj",
+            "LastName":"kalola",
+            "Role":["Dev","Node Js"],
+            "Date Of Join":"2023-01-03",
+            "Age":"27",
+            "Gender": "male",
+            "Married":"False",
+            "Address":{
+                "streetAddress": "29 colony",
+                "city": "Rajkot",
+                "state": "Gujarat",
+                "postalCode": "360008"
+            }
+        },
+        {
+            "FirstName":"Meet",
+            "LastName":"Patel",
+            "Role":["Dev","Java"],
+            "Date Of Join":"2019-05-01",
+            "Age":"27",
+            "Gender": "male",
+            "Married":"True",
+            "Address":{
+                "streetAddress": "10 colony",
+                "city": "Junagadh",
+                "state": "Gujarat",
+                "postalCode": "380058"
+            }
+        }
+    ]
+}
